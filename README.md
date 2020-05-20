@@ -12,3 +12,9 @@ Y para construir el build, utilicen:
 ```
 npm run build
 ```
+
+```
+git add . [para agregar nuevo archivo]
+git commit -m "Actualizado" [para proteger archivo hasta ese punto]
+git push [para enviarlo al repositorio]
+```
