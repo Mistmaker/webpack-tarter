@@ -14,7 +14,7 @@ npm run build
 ```
 
 ```
-git add . [para agregar nuevo archivo]
+git add . [para agregar archivo]
 git commit -m "Actualizado" [para proteger archivo hasta ese punto]
 git push [para enviarlo al repositorio]
 ```
